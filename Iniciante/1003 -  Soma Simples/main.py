@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
 
-A = int(input())
-B = int(input())
+A, B = int(input()), int(input())
 print(f'SOMA = {A + B}')
