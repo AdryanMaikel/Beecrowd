@@ -14,4 +14,4 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 |:-----------------:|:--------------:|
 | 3  <br> 9         |PROD = 27       |
 |-30 <br> 10        |PROD = -300     |
-|0   <br> 9         |PROD = 0        |
+| 0  <br> 9         |PROD = 0        |
